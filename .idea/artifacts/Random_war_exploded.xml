@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="Random:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/Random_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="java-study/web/Web" />
+      <element id="javaee-facet-resources" facet="vacation-study/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="java-study" />
+          <element id="module-output" name="vacation-study" />
         </element>
       </element>
     </root>
